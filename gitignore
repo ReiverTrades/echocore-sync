@@ -1,0 +1,24 @@
+# Python standard
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# SQLite
+vitals.db
+
+# Executables and packages
+*.exe
+*.bat
+*.ico
+*.zip
+
+# VSCode / IDE
+.vscode/
+*.log
+.DS_Store
